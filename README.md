@@ -7,7 +7,7 @@
 다양한 기술 경험을 쌓는 게 목표입니다.
 
 ### 사용 언어
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/p\Python-#3776AB?style=flat-square&logo=p\Python&logoColor=white"/></a>&nbsp 
 <!--
 **aengzu/aengzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

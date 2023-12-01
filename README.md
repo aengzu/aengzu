@@ -1,8 +1,9 @@
 <div align=center> <h1>I'm aengzu 👋🏻</h1></div>
-
+<div align=center>
+  
 ![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
-<div align=center>
+
   
 ### 소개 💻
 컴퓨터공학과 학부생입니다.

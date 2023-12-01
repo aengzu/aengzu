@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm aengzu&fontSize=90" />
-
+<div align=center> <h1>I'm aengzu 👋🏻</h1></div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 소개

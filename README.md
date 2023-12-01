@@ -1,6 +1,6 @@
 <div align=center> <h1>I'm aengzu 👋🏻</h1></div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align=center>
 ### 소개
 컴퓨터공학과 학부생입니다.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
-
+></div>
 
 
 

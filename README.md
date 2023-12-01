@@ -1,6 +1,6 @@
 <div align=center> <h1>I'm aengzu 👋🏻</h1></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
+![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
 <div align=center>
   
@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 <br/>

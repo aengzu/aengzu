@@ -2,13 +2,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 <div align=center>
   
-### 소개
+### 소개 💻
 컴퓨터공학과 학부생입니다.
 
-### 목표
+### 🎯 목표 🎯
 다양한 기술 경험을 쌓는 게 목표입니다.
 
-### Languages & Tools
+### 🛠️ Languages & Tools 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>

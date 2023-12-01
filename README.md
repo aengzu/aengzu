@@ -1,4 +1,4 @@
-## I'm aengzu 👋
+##<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=I'm aengzu&fontSize=90" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 ### 소개
 컴퓨터공학과 학부생입니다.

@@ -1,11 +1,11 @@
 <div align=center>
   <h1> 
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm aengzu 👋🏻)](https://git.io/typing-svg)
+    I'm aengzu 👋🏻
   </h1>
 </div>
 <div align=center>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm aengzu 👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm aengzu👋🏻)](https://git.io/typing-svg)
 
 
 --- 

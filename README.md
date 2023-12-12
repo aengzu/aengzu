@@ -3,13 +3,15 @@
   
 ![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
-
+--- 
   
 ### 소개 💻
 컴퓨터공학과 학부생입니다.
+🌱 I major Computer Engineering.
 
 ### 🎯 목표 🎯
 다양한 기술 경험을 쌓는 게 목표입니다.
+😄 I aim to build variety of skills.
 
 ### 🛠️ Languages & Tools 🛠️
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,7 +27,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

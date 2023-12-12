@@ -1,7 +1,5 @@
 <div align=center> <h1>I'm aengzu 👋🏻</h1></div>
 <div align=center>
-  
-![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
 --- 
   
@@ -19,7 +17,10 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-
+<br>
+---
+<br>
+![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
 <!--
 **aengzu/aengzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

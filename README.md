@@ -33,7 +33,6 @@
 
 <br>
 
-![aengzu's github stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true)
 
 <!--
 **aengzu/aengzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

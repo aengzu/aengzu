@@ -1,5 +1,12 @@
-<div align=center> <h1>I'm aengzu 👋🏻</h1></div>
 <div align=center>
+  <h1> 
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm aengzu 👋🏻)](https://git.io/typing-svg)
+  </h1>
+</div>
+<div align=center>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;I'm aengzu 👋🏻)](https://git.io/typing-svg)
+
 
 --- 
   

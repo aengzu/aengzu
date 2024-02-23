@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-E34F26?style=flat-square&logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-0175C2?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>

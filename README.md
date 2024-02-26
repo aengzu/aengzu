@@ -35,9 +35,10 @@
 <img src="https://img.shields.io/badge/Streamlit-AC87C5?style=flat-square&logo=Streamlit&logoColor=white"/>
 </div>
 <br>
+<br>
+---
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu&theme=buefy&title_color=756AB6&text_color=AC87C5&bg_color=FFE5E5)](https://github.com/anuraghazra/github-readme-stats&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu&theme=buefy&title_color=756AB6&text_color=AC87C5&bg_color=FFE5E5&icon_color=AC87C5)](https://github.com/anuraghazra/github-readme-stats&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)
 
 
 

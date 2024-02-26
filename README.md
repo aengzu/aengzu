@@ -3,10 +3,10 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F77DE4&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=F77DE4&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 
 
---- 
+
 
 ### 💻 소개  💻
 컴퓨터공학과 학부생입니다.<br>

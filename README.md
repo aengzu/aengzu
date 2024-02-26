@@ -37,7 +37,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu)](https://github.com/anuraghazra/github-readme-stats&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)](https://github.com/anuraghazra/github-readme-stats&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)
 
 
 

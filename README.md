@@ -39,7 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu&layout=pie)](https://github.com/aengzu/github-readme-stats)
 
 
 ---

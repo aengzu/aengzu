@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     </div>
   <div class='row'>
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=756AB6"/>
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=HTML5&logoColor=756AB6"/>
 <img src="https://img.shields.io/badge/Java-F9F5F6?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-F8E8EE?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-FDCEDF?style=flat-square&logo=Visual Studio&logoColor=white"/>

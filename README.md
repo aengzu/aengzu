@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Android Studio-F8E8EE?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-FDCEDF?style=flat-square&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-F2BED1?style=flat-square&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/fastapi-E0AED0?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
 </div>
 <br>

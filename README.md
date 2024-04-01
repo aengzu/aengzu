@@ -12,6 +12,7 @@
 컴퓨터공학과 학부생입니다.<br>
 <span style='background-color:#FFE5E5'>I major Computer Engineering.</span>
 <p><$\color{#FFE5E5}set\ text\ color$</p>
+<p>$\it{\large{\color{#FFE5E5}이텔릭체,\ I major Computer Engineering.,\ 빨간색}}$</p>
 
 ### 🔮 목표 🔮
 다양한 기술 경험을 쌓는 게 목표입니다.<br>

@@ -10,7 +10,7 @@
 
 ### 😈 소개  😈
 컴퓨터공학과 학부생입니다.<br>
-<span style='background-color:pink'>I major Computer Engineering.</span>
+<span style='background-color:#FFE5E5'>I major Computer Engineering.</span>
 
 ### 🔮 목표 🔮
 다양한 기술 경험을 쌓는 게 목표입니다.<br>

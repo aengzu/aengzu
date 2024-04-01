@@ -38,8 +38,6 @@
 <br>
 
 
-![image](https://github.com/aengzu/aengzu/assets/102356873/476dbdfe-3c25-43e7-bc3e-23ece4e6c66b)
-
 
 
 

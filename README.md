@@ -10,8 +10,7 @@
 
 ### 😈 소개  😈
 컴퓨터공학과 학부생입니다.<br>
-<span style='background-color:#FFE5E5'>I major Computer Engineering.</span>
-<p><$\color{#FFE5E5}set\ text\ color$</p>
+
 <p>$\it{\large{\color{#AC87C5}이텔릭체,\ I\major\Computer\Engineering.\}}$</p>
 
 ### 🔮 목표 🔮

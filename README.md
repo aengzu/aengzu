@@ -18,7 +18,7 @@
 
 ### 🛠️ Languages & Tools 🛠️
 <div class='row'>
-<img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FDCEDF?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgresql-FFE5E5?style=flat-square&logo=postgresql&logoColor=AC87C5"/>

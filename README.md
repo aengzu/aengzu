@@ -11,7 +11,7 @@
 ### 😈 소개  😈
 컴퓨터공학과 학부생입니다.<br>
 
-<p>$\it{\large{\color{#AC87C5}이텔릭체,\ I\major\Computer\Engineering.\}}$</p>
+<p>$\it{\large{\color{#AC87C5}I\ major\ Computer\ Engineering.}}$</p>
 
 ### 🔮 목표 🔮
 다양한 기술 경험을 쌓는 게 목표입니다.<br>

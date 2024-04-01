@@ -37,7 +37,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aengzu&theme=dark&title_color=756AB6&text_color=AC87C5&bg_color=FFE5E5&icon_color=AC87C5)](https://github.com/anuraghazra/github-readme-stats&bg_color=756AB6,AC87C5,E0AED0,FFE5E5)
+
 
 
 

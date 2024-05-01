@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/postgresql-FFE5E5?style=flat-square&logo=postgresql&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Javascript-E0AED0?style=flat-square&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-AC87C5?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-F2BED1?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-F2BED1?style=flat-square&logo=Kotlin&logoColor=white"/>
     </div>
   <div class='row'>
 <img src="https://img.shields.io/badge/HTML5-F9F5F6?style=flat-square&logo=HTML5&logoColor=756AB6"/>

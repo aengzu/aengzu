@@ -9,12 +9,12 @@
 
 
 ### 😈 소개  😈
-<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="50" height="50"/> 컴퓨터공학과 학부생입니다.<br>
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30" height="30"/> 컴퓨터공학과 학부생입니다.<br>
 
 <p>$\it{\large{\color{#AC87C5}I\ major\ Computer\ Engineering.}}$</p>
 
 ### 🔮 목표 🔮
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" height="50"/>다양한 기술 경험을 쌓는 게 목표입니다.<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30"/>다양한 기술 경험을 쌓는 게 목표입니다.<br>
 <p>$\it{\large{\color{#AC87C5}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
 
 ### 🦄 Languages & Tools 🦄

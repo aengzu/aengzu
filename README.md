@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=F77DE4&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 
-![image](https://github.com/aengzu/aengzu/assets/102356873/e68d7cc1-4787-40af-ba98-fc37660348d3)
-
+<img src="https://i.pinimg.com/originals/fa/91/b6/fa91b63a4ceff9770af9d06f0b30b153.gif" width="100" heigt="80"/>
 
 
 ### 😈 소개  😈

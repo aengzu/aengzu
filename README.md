@@ -19,6 +19,9 @@
 <p>$\it{\large{\color{#AC87C5}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
 
 ### 🦄 Languages & Tools 🦄
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/aengzu"/>
+</a>
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>

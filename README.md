@@ -1,7 +1,7 @@
 
 <br>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=AC87C5&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 
 <p align="center">

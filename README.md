@@ -10,7 +10,7 @@
 
 
 ### 😈 소개  😈
-컴퓨터공학과 학부생입니다.<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30" height="30"/> <br>
+컴퓨터공학과 학부생입니다. <br>
 
 <p>$\it{\large{\color{#AC87C5}I\ major\ Computer\ Engineering.}}$</p>
 

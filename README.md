@@ -1,12 +1,8 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=AC87C5&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aengzu&theme=dracula)](https://github.com/aengzu/github-readme-activity-graph)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=AC87C5&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/fa/91/b6/fa91b63a4ceff9770af9d06f0b30b153.gif" width="250" heigt="90"/>
-</p>
 
 
 ### 😈 소개  😈
@@ -66,7 +62,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+<img src="https://i.pinimg.com/originals/fa/91/b6/fa91b63a4ceff9770af9d06f0b30b153.gif" width="250" heigt="90"/>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 

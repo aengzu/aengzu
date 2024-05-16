@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<img src="https://i.pinimg.com/originals/fa/91/b6/fa91b63a4ceff9770af9d06f0b30b153.gif" width="250" heigt="90"/>
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
 

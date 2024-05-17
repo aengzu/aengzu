@@ -21,6 +21,9 @@
 <br>
 <p>$\it{\large{\color{#AC87C5}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
 
+### Contact
+💌 wjsdudwn01@gmail.com
+
 ### Languages & Tools 🦄
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>

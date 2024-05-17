@@ -9,7 +9,7 @@
 
 
 ### 😈 소개  😈
-Hi I major CSE in Korea. <br>
+HI I major CSE in Korea. <br>
 
 <p>$\it{\large{\color{#AC87C5}I\ major\ Computer\ Engineering.}}$</p>
 

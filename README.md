@@ -17,7 +17,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **Android Development**.
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm planning to learn TypeScript, React. 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm planning to learn **TypeScript, React**. 
 <br>
 <p>$\it{\large{\color{#AC87C5}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
 

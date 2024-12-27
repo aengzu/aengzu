@@ -13,7 +13,7 @@
 <p>$\it{\large{\color{#AC87C5}HI ~ I\ major\ Computer\ Engineering.}}$</p>
 
 ### GOAL 🔮
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Flutter, Kotlin, FastAPI, MySQL, PostgreSQL**, etc.. 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Flutter, Kotlin, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **App Development**.
 <br>

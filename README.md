@@ -22,12 +22,7 @@
 <br>
 
 
-### Contact
-💌 wjsdudwn01@gmail.com
-
-
 ### Languages & Tools  <img src="https://github.com/user-attachments/assets/5964e663-5fa3-4cf2-ab32-574dbaa8cc27" width="40" height="30"/>
-
 
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>

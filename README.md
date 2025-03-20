@@ -7,11 +7,13 @@
 [![Aengzu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aengzu&theme=dracula)](https://github.com/aengzu/github-readme-activity-graph)
 
 
-### About Me 
-- Hi I'm anegzu. I major Computer Engineering.
+### About Me  <img src="https://github.com/user-attachments/assets/09459d95-ca61-420e-a6db-7d20732b3cfc" width="35" height="30"/> 
 
 
-### GOAL 
+Hi I'm anegzu. I major Computer Engineering.
+
+
+### <img src="https://github.com/user-attachments/assets/645842ff-8736-419b-994f-563d050b3a8c" width="30" height="30"/> GOAL 
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
@@ -78,6 +80,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/aengzu"/>
 </a>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **App Development**.
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm planning to learn **TypeScript, React**. 
 <br>
 
 -->

@@ -34,6 +34,7 @@ Hi I'm anegzu. I major Computer Engineering.
   </table>
 
 
+<br>
 
 ### Languages & Tools  <img src="https://github.com/user-attachments/assets/5964e663-5fa3-4cf2-ab32-574dbaa8cc27" width="40" height="30"/>
 

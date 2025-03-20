@@ -1,6 +1,6 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=FFC0CB&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=FFC0CB&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻)](https://git.io/typing-svg)
 
 <br>
 
@@ -9,22 +9,26 @@
 
 ### About Me 
 
-
-<p>$\it{\large{\color{#AC87C5}HI ~ I\ major\ Computer\ Engineering.}}$</p>
+<p>$\it{\large{\color{#FADADD}HI ~ I\ major\ Computer\ Engineering.}}$</p>
 
 ### GOAL 
+<p>$\it{\large{\color{#FADADD}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **App Development**.
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm planning to learn **TypeScript, React**. 
 <br>
-<p>$\it{\large{\color{#AC87C5}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
+
 
 ### Contact
 💌 wjsdudwn01@gmail.com
 
-### Languages & Tools 
+
+### Languages & Tools  <img src="https://github.com/user-attachments/assets/5964e663-5fa3-4cf2-ab32-574dbaa8cc27" width="40" height="30"/>
+
+
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>
@@ -45,13 +49,13 @@
 <img src="https://img.shields.io/badge/Streamlit-AC87C5?style=flat-square&logo=Streamlit&logoColor=white"/>
 </div>
 <br>
-![😎's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true&bg_color=FADADD&text_color=FF3399)
 
-<br>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/aengzu"/>
-</a>
-<br>
+![😎's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true&bg_color=FADADD&text_color=FF3399&border_color=ff3399&icon_color=ff3399&title_color=ff3399)
+
+
+
+
+
 
 
 
@@ -74,6 +78,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/aengzu"/>
+</a>
+<br>
+
 -->
 
 <br/>

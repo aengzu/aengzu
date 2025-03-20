@@ -1,5 +1,7 @@
 <br>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=FFC0CB&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻 )](https://git.io/typing-svg)
 
 <br>
@@ -26,7 +28,7 @@ Hi I'm anegzu. I major Computer Engineering.
 
 ### Languages & Tools  <img src="https://github.com/user-attachments/assets/5964e663-5fa3-4cf2-ab32-574dbaa8cc27" width="40" height="30"/>
 
-<div align="center">
+
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>

@@ -15,16 +15,18 @@ Hi I'm anegzu. I major Computer Engineering.
 
 ### <img src="https://github.com/user-attachments/assets/645842ff-8736-419b-994f-563d050b3a8c" width="30" height="30"/> GOAL 
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
+
+<img src="https://github.com/user-attachments/assets/2f70bc6f-1552-47ec-9504-51fe1e516054" width="15" height="15"/>  I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **App Development**.
+<img src="https://github.com/user-attachments/assets/2f70bc6f-1552-47ec-9504-51fe1e516054" width="15" height="15"/>  I'm interested in **App Development**.
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm planning to learn **TypeScript, React**. 
+<img src="https://github.com/user-attachments/assets/2f70bc6f-1552-47ec-9504-51fe1e516054" width="15" height="15"/>  I'm planning to learn **TypeScript, React**. 
 <br>
 
 
 ### Languages & Tools  <img src="https://github.com/user-attachments/assets/5964e663-5fa3-4cf2-ab32-574dbaa8cc27" width="40" height="30"/>
 
+<div align="center">
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>
@@ -49,7 +51,7 @@ Hi I'm anegzu. I major Computer Engineering.
 ![😎's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true&bg_color=FADADD&text_color=FF3399&border_color=ff3399&icon_color=ff3399&title_color=ff3399)
 
 
-
+</div>
 
 
 

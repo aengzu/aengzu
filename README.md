@@ -12,7 +12,7 @@
 ### About Me  <img src="https://github.com/user-attachments/assets/09459d95-ca61-420e-a6db-7d20732b3cfc" width="35" height="30"/> 
 
 
-Hi I'm anegzu. I major Computer Engineering.
+Hi I'm aengzu. I major Computer Engineering.
 
 <br>
 

@@ -8,11 +8,10 @@
 
 
 ### About Me 
+- Hi I'm anegzu. I major Computer Engineering.
 
-<p>$\it{\large{\color{#FADADD}HI ~ I\ major\ Computer\ Engineering.}}$</p>
 
 ### GOAL 
-<p>$\it{\large{\color{#FADADD}I\ aim\ to\ build\ variety\ of\ skills.}}$</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
@@ -74,6 +73,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p>$\it{\large{\color{#FADADD}HI ~ I\ major\ Computer\ Engineering.}}$</p>
 <br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/aengzu"/>

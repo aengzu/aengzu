@@ -1,19 +1,19 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=AC87C5&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&theme=dark&color=FFC0CB&center=true&random=false&width=435&lines=Hi+I'm+aengzu+👋🏻👋🏻)](https://git.io/typing-svg)
 
 <br>
 
 [![Aengzu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aengzu&theme=dracula)](https://github.com/aengzu/github-readme-activity-graph)
 
 
+### About Me 
 
-### About Me 😈
 
 <p>$\it{\large{\color{#AC87C5}HI ~ I\ major\ Computer\ Engineering.}}$</p>
 
-### GOAL 🔮
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Flutter, Kotlin, FastAPI, MySQL, MongoDB**, etc.. 
+### GOAL 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I’m currently learning **Kotlin, Flutter, FastAPI, MySQL, MongoDB**, etc.. 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20"/> I'm interested in **App Development**.
 <br>
@@ -24,7 +24,7 @@
 ### Contact
 💌 wjsdudwn01@gmail.com
 
-### Languages & Tools 🦄
+### Languages & Tools 
 <div class='row'>
 <img src="https://img.shields.io/badge/Flutter-F9F5F6?style=flat-square&logo=Flutter&logoColor=AC87C5"/>
 <img src="https://img.shields.io/badge/Dart-F8E8EE?style=flat-square&logo=Dart&logoColor=white"/>
@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/fastapi-E0AED0?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-AC87C5?style=flat-square&logo=Streamlit&logoColor=white"/>
 </div>
+<br>
+![😎's GitHub stats](https://github-readme-stats.vercel.app/api?username=aengzu&show_icons=true&bg_color=FADADD&text_color=FF3399)
+
 <br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/aengzu"/>
@@ -72,7 +75,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=aengzu)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 <br/>
 </div>

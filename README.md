@@ -31,7 +31,7 @@ Curious across the stack: AI · Mobile · Backend · Systems.
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/2f70bc6f-1552-47ec-9504-51fe1e516054" width="15" height="15"/></td>
-      <td>I'm planning to learn <strong>TypeScript, React</strong>.</td>
+      <td>I'm planning to learn <strong>Spring, TypeScript, React</strong>.</td>
     </tr>
   </table>
 

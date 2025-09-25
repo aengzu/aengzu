@@ -13,6 +13,8 @@
 
 
 Hi I'm aengzu. I major Computer Engineering.
+<br>
+Curious across the stack: AI · Mobile · Backend · Systems.
 
 <br>
 

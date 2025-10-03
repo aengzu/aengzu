@@ -51,11 +51,9 @@ Curious across the stack: AI · Mobile · Backend · Systems.
 <img src="https://img.shields.io/badge/Kotlin-F2BED1?style=flat-square&logo=Kotlin&logoColor=white"/>
     </div>
   <div class='row'>
+<img src="https://img.shields.io/badge/C++-F2BED1?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-F9F5F6?style=flat-square&logo=HTML5&logoColor=756AB6"/>
 <img src="https://img.shields.io/badge/Java-F8E8EE?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-FFE5E5?style=flat-square&logo=Android Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-FDCEDF?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-F2BED1?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/fastapi-E0AED0?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-AC87C5?style=flat-square&logo=Streamlit&logoColor=white"/>
 </div>
